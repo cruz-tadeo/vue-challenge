@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+#app {
+  font-family: 'Poppins', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #f0f2f4;
+  font-weight: 400;
+  font-size: small;
+}
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0%;
+}
